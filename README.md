@@ -1,6 +1,6 @@
 ## BonsaiNet
 
-[License](https://github.com/RoozbehFarhoodi/McNeuron/blob/master/LICENCE
+[License](https://github.com/RoozbehFarhoodi/McNeuron/blob/master/LICENSE)
 
 ## Goal
 
@@ -10,8 +10,7 @@ The intricate morphology of neurons has fascinated scientists since the dawn of 
 
 Neuronal structures can be approximated as trees in 3-d space. Each neuron is uniquely specified by the adjacency matrix of its tree (morphology) and the location of the tree's vertices in 3-d space. We train generative adversarial networks (GANs) to synthesize the the morphology and geometry of realistic neurons, whose joint statistics are obtained from a neuroanatomy database: [neuromorpho.org](http://neuromorpho.org).
 
-![alt tag](network.pdf)
-
+![alt tag](https://github.com/tree-gan/BonsaiNet/blob/master/network.pdf)
 
 ## Prerequisites
 
